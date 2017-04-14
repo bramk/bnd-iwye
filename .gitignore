@@ -1,0 +1,9 @@
+/RemoteSystemsTempFiles/
+/.metadata/
+/.recommenders/
+/.gradle/
+*/.settings/
+*/bin/
+*/bin_test/
+*/generated/
+*/test-reports/

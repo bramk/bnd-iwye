@@ -1,0 +1,5 @@
+
+-buildpath: \
+  osgi.core;version=latest
+
+-sub: *.bnd

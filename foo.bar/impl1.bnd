@@ -1,0 +1,6 @@
+Export-Package: foo.bar.api1
+Private-Package: \
+	foo.bar.impl1,\
+	foo.bar.util
+Bundle-Activator: \
+    foo.bar.impl1.Activator
